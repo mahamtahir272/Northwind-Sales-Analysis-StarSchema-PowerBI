@@ -1,1 +1,2 @@
 # Northwind-Sales-Analysis-StarSchema-PowerBI
+📝 Description: A complete Business Intelligence project using the Northwind dataset. This repository showcases the design and implementation of a Star Schema using SQL Server and interactive dashboards in Power BI. It includes dimensional modeling, data transformations, and insightful visualizations for analyzing sales, customers, products, and order trends.
